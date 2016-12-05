@@ -1,0 +1,23 @@
+{
+  "name": "c-first-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickosman10/c-first-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickosman10/c-first-lessons/issues"
+  },
+  "homepage": "https://github.com/nickosman10/c-first-lessons#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.2.0"
+  }
+}
